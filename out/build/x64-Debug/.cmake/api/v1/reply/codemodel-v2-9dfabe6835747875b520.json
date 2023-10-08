@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c751517fb5cc06c5b029.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "fng",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "engine-shared::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-engine-shared-Debug-860d218b358d963e19d4.json",
+					"name" : "engine-shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "everything::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-everything-Debug-88587f3b1944c57e4505.json",
+					"name" : "everything",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fng2_srv::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fng2_srv-Debug-867934cdd1aa53a24dee.json",
+					"name" : "fng2_srv",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "game-shared::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-game-shared-Debug-a2e8e65c091477ed5877.json",
+					"name" : "game-shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mastersrv::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mastersrv-Debug-b24c3308bb7f27612566.json",
+					"name" : "mastersrv",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "md5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-md5-Debug-431b178fbe4bd93565c2.json",
+					"name" : "md5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "package_all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-package_all-Debug-bf2c780a37f79d59bb34.json",
+					"name" : "package_all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "package_default::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-package_default-Debug-b1db7f6281f94a6f3174.json",
+					"name" : "package_default",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "package_tar_gz::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-package_tar_gz-Debug-221ddf43d34719c571c3.json",
+					"name" : "package_tar_gz",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "package_tar_xz::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-package_tar_xz-Debug-488d13d9494cf4fba6e2.json",
+					"name" : "package_tar_xz",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "package_zip::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-package_zip-Debug-8a41d614f91410ff44b2.json",
+					"name" : "package_zip",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "versionsrv::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-versionsrv-Debug-63eeb3a84d9747f25ba3.json",
+					"name" : "versionsrv",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zlib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zlib-Debug-1e15b575041fdb80d746.json",
+					"name" : "zlib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hello/Desktop/refng-fng_06/out/build/x64-Debug",
+		"source" : "C:/Users/hello/Desktop/refng-fng_06"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

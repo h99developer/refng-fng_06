@@ -1,0 +1,117 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 935,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 936,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 945,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 946,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 947,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "data",
+			"destination" : "share/fng",
+			"paths" : 
+			[
+				"out/build/x64-Debug/data"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "server",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"fng2_srv.exe"
+			],
+			"targetId" : "fng2_srv::@6890427a1f51a3e7e1df",
+			"targetIndex" : 2,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "portable",
+			"destination" : "fng-0.6.5-win64",
+			"isExcludeFromAll" : true,
+			"paths" : 
+			[
+				"fng2_srv.exe"
+			],
+			"targetId" : "fng2_srv::@6890427a1f51a3e7e1df",
+			"targetIndex" : 2,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "portable",
+			"destination" : "fng-0.6.5-win64",
+			"isExcludeFromAll" : true,
+			"paths" : 
+			[
+				"out/build/x64-Debug/data"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "portable",
+			"destination" : "fng-0.6.5-win64",
+			"isExcludeFromAll" : true,
+			"paths" : 
+			[
+				"fng.cfg",
+				"license.txt",
+				"storage.cfg",
+				"other/config_directory.bat"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}
